@@ -1,0 +1,34 @@
+.w-md-editor .title{
+    line-height: unet;
+    font-size: unet;
+    font-weight: unset;
+    color: black; 
+}
+.w-md-editor ul{
+
+    line-height: 1.0;
+}
+
+/* .w-md-editor-text textarea{
+    background-color: white;
+} */
+
+.text-editor .w-md-editor-bar svg {
+    display: none;
+}
+.text-editor .w-md-editor-bar{  
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAFAQMAAABo7865AAAABlBMVEVHcEzMzMzyAv2sAAAAAXRSTlMAQObYZgAAABBJREFUeF5jOAMEEAIEEFwAn3kMwcB6I2AAAAAASUVORK5CYII=');
+    height: 11px;
+    width: 100%;
+    position: relative;
+    cursor: row-resize;
+    background-color: #37414b;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.card-content{
+    padding: 2.1rem;
+}
+.text-editor .w-md-editor-text-input {
+    -webkit-text-fill-color :black
+}
